@@ -22,7 +22,7 @@ You can use the plugin as a widget too.
 Additional Plugin Information:
 
 * <a href="http://www.pluginswp.com/ultimate-video-gallery/">Manual and config samples</a>
-* <a href="http://www.pluginswp.com/ultimate-full-video-gallery/">Download full ultimate/a>
+* <a href="http://www.pluginswp.com/ultimate-full-video-gallery/">Download full ultimate</a>
 * <a href="http://www.pluginswp.com/">Download more wordpress plugins</a>
 		
 
