@@ -1,4 +1,4 @@
-=== ULTIMATE FREE VIDEO GALLERY ===
+=== ULTIMATE FREE VIDEO GALLERY, youtube and flv videos in plugin or widget ===
 Plugin Author: pluginswp.com
 Contributors: pluginswp.com
 Donate link: http://www.pluginswp.com/ultimate-full-video-gallery/
