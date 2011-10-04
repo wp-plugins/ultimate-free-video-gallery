@@ -52,7 +52,10 @@ Once installed and activated, and the default plugin works correctly. The parame
 == Screenshots ==
 
 1. Sample.
-2. Configuration.
+2. sample.
+3. sample
+4. configuration.
+5. Configuration.
 
 == Changelog ==
 
